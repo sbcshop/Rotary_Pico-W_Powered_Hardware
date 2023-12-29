@@ -6,7 +6,7 @@
 
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/Lo-Fi_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Design Data](https://github.com/sbcshop/Rotary_Pico-W_Powered_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/Lo-Fi_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [Rotary Pico W Getting Started Guide](https://github.com/sbcshop/Rotary_Pico-W_Powered_Software) - This repo contains Lo-Fi Getting Started and Sample Codes.
 
