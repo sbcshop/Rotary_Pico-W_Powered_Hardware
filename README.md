@@ -11,7 +11,7 @@
   - [Rotary Pico W Getting Started Guide](https://github.com/sbcshop/Rotary_Pico-W_Powered_Software) - This repo contains Lo-Fi Getting Started and Sample Codes.
 
 ## Related Products
-  * [USB to LoRa Dongle](https://shop.sb-components.co.uk/products/lo-fi?variant=41026475753555) 
+  * [1.28 round touch lcd hat](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi?_pos=8&_sid=b964c85bf&_ss=r) 
    
      ![USB to LoRa Dongle](https://shop.sb-components.co.uk/cdn/shop/products/05_2.png?v=1678712489&width=300)   
 
