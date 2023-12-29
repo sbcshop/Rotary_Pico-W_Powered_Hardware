@@ -8,7 +8,7 @@
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Rotary_Pico-W_Powered_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/Rotary_Pico-W_Powered_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [Rotary Pico W Getting Started Guide](https://github.com/sbcshop/Rotary_Pico-W_Powered_Software) - This repo contains Lo-Fi Getting Started and Sample Codes.
+  - [Rotary Pico W Getting Started Guide](https://github.com/sbcshop/Rotary_Pico-W_Powered_Software) - This repo contains Getting Started and Sample Codes.
 
 ## Related Products
   * [1.28 round touch lcd hat](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi?_pos=8&_sid=b964c85bf&_ss=r) 
