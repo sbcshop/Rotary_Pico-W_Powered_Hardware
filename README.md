@@ -15,9 +15,9 @@
    
      ![1.28 round touch lcd hat](https://shop.sb-components.co.uk/cdn/shop/files/shopimages_87b6d1ec-2c95-4621-a07f-5937a8d8c090.png?v=1687857703&width=300)   
 
-  * [GatePi](https://shop.sb-components.co.uk/products/gatepi?variant=39756684066899) 
+  * [Roundy](https://shop.sb-components.co.uk/products/roundy?_pos=1&_sid=b964c85bf&_ss=r) 
    
-     ![GatePi](https://shop.sb-components.co.uk/cdn/shop/products/GatePi-4channelRelayBoardwithLoRaModulebasedonRP2040.jpg?v=1647335212&width=300) 
+     ![Roundy](https://shop.sb-components.co.uk/cdn/shop/products/roundypi.png?v=1650457581&width=300) 
 
   * [RangePi](https://shop.sb-components.co.uk/products/range-pi?variant=39744084705363) 
    
